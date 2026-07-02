@@ -115,11 +115,6 @@ Sales by Category
 Purchase by Age Group
 Sales by Age Group
 Discount Applied Analysis
-📷 Dashboard Preview
-
-Customer Behavior Analysis Dashboard
-
-(Insert your Power BI dashboard screenshot here)
 
 🔍 Key Insights
 Clothing category generated the highest revenue.
