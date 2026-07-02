@@ -12,16 +12,16 @@ This project showcases practical skills in data preprocessing, SQL querying, bus
 ![Customer Behavior Dashboard](dashboard.png)
 
 🛠️ Tools & Technologies
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-SQL Server
-Power BI
-DAX
-Gamma (Presentation)
+Python,
+Jupyter Notebook,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+SQL Server,
+Power BI,
+DAX,
+Gamma (Presentation),
 📈 Project Workflow
 Step 1: Data Loading
 Imported dataset into Jupyter Notebook
@@ -176,15 +176,15 @@ Open the .pbix file.
 Refresh the dataset if necessary.
 Explore the interactive dashboard using the slicers.
 📌 Skills Demonstrated
-Data Cleaning
-Exploratory Data Analysis (EDA)
-SQL Query Writing
-Data Visualization
-Dashboard Design
-Business Intelligence
-DAX
-Data Storytelling
-Report Creation
-Presentation Development
+Data Cleaning,
+Exploratory Data Analysis (EDA),
+SQL Query Writing,
+Data Visualization,
+Dashboard Design,
+Business Intelligence,
+DAX,
+Data Storytelling,
+Report Creation,
+Presentation Development,
 
 
